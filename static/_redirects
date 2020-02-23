@@ -1,3 +1,14 @@
 
 # Redirect default Netlify subdomain to primary domain
 / https://cranky-bartik-91394d.netlify.com/ 200!
+
+#Redirect other files:
+/component---node-modules-gatsby-theme-musician-src-templates-landing-js-3f17970ee2e6dbb16f5f.js https://cranky-bartik-91394d.netlify.com/component---node-modules-gatsby-theme-musician-src-templates-landing-js-3f17970ee2e6dbb16f5f.js 200!
+/app-1d8025a32679c7ec53d3.js https://cranky-bartik-91394d.netlify.com/app-1d8025a32679c7ec53d3.js 200!
+/commons-a98e3e8e9725a9879643.js https://cranky-bartik-91394d.netlify.com/commons-a98e3e8e9725a9879643.js 200!
+/webpack-runtime-4deb5b09a05468273b1e.js https://cranky-bartik-91394d.netlify.com/webpack-runtime-4deb5b09a05468273b1e.js 200!
+/page-data/index/page-data.json https://cranky-bartik-91394d.netlify.com/page-data/index/page-data.json 200!
+/static/42177f42bf56f2ecacadb8bfa4d3ff59/ae0f1/compchems.jpg https://cranky-bartik-91394d.netlify.com/static/42177f42bf56f2ecacadb8bfa4d3ff59/ae0f1/compchems.jpg 200!
+/sciences.jpg https://cranky-bartik-91394d.netlify.com/sciences.jpg 200!
+/static/ffacd85c9fded11324a1f57b0c34c5cf/9310a/pharmatechs.png https://cranky-bartik-91394d.netlify.com/static/ffacd85c9fded11324a1f57b0c34c5cf/9310a/pharmatechs.png 200!
+/static/04966909e6f31111c07c884d7cf48abd/db6d2/fortunes.jpg https://cranky-bartik-91394d.netlify.com/static/04966909e6f31111c07c884d7cf48abd/db6d2/fortunes.jpg 200!
